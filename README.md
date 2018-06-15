@@ -1,2 +1,2 @@
 # practice-jupyter-notebook
-Collection of Jupyter Notebooks used for practicing python and data processing
+Personal collection of practice Jupyter Notebooks I wrote to get more familiar Python and Jupyter Notebook environment
